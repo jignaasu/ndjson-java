@@ -17,3 +17,5 @@ delimited JSON string from List of JSON Objects
 
 [1]:https://github.com/ndjson/ndjson-spec
 [2]:https://github.com/stleary/JSON-java
+
+Build status: [![build_status](https://travis-ci.org/abhijithtn/ndjson-java.svg?branch=master)](https://travis-ci.org/abhijithtn/ndjson-java)
